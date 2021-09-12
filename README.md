@@ -51,4 +51,7 @@ All four of these files are zipped up in the Bikeshare file in the resource tab 
 
 Some versions of this project also include a Project Workspace page in the classroom where the bikeshare.py file and the city dataset files are all included, and you can do all your work with them there.
 
-Notice: The CSV files uploaded in the repository folder
+Notice: The CSV files are larger than 25 MB so i will put thier links here : 
+ https://www.mediafire.com/file/d8vt3kj0uyka2zc/new_york_city.csv/file
+ https://www.mediafire.com/file/miabhdb21pwz1l9/washington.csv/file
+ https://www.mediafire.com/file/sx94f2hdxlr7vjq/chicago.csv/file

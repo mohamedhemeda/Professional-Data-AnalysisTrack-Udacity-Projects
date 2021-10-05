@@ -22,21 +22,21 @@ Birth Year<br>
 **Statistics Computed**<br>
 You will learn about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, you'll write code to provide the **following information:**<br>
 
-#1 Popular times of travel (i.e., occurs most often in the start time)<br>
+**#1 Popular times of travel (i.e., occurs most often in the start time)**<br>
 
 most common month<br>
 most common day of week<br>
 most common hour of day <br>
-#2 Popular stations and trip
+**#2 Popular stations and trip**<br>
 
 most common start station<br>
 most common end station<br>
 most common trip from start to end (i.e., most frequent combination of start station and end station)<br>
-#3 Trip duration<br>
+**#3 Trip duration**<br>
 
 total travel time<br>
 average travel time<br>
-#4 User info<br>
+**#4 User info**<br>
 
 counts of each user type<br>
 counts of each gender (only available for NYC and Chicago)<br>

@@ -41,20 +41,20 @@ average travel time<br>
 counts of each user type<br>
 counts of each gender (only available for NYC and Chicago)<br>
 earliest, most recent, most common year of birth (only available for NYC and Chicago)<br>
-The Files
-To answer these questions using Python, you will need to write a Python script. To help guide your work in this project, a template with helper code and comments is provided in a bikeshare.py file, and you will do your scripting in there also. You will need the three city dataset files too:
+The Files<br>
+To answer these questions using Python, you will need to write a Python script. To help guide your work in this project, a template with helper code and comments is provided in a bikeshare.py file, and you will do your scripting in there also. You will need the three city dataset files too:<br>
 
-chicago.csv
-new_york_city.csv
-washington.csv
-All four of these files are zipped up in the Bikeshare file in the resource tab in the sidebar on the left side of this page. You may download and open up that zip file to do your project work on your local machine.
+chicago.csv<br>
+new_york_city.csv<br>
+washington.csv<br>
+All four of these files are zipped up in the Bikeshare file in the resource tab in the sidebar on the left side of this page. You may download and open up that zip file to do your project work on your local machine.<br>
 
-Some versions of this project also include a Project Workspace page in the classroom where the bikeshare.py file and the city dataset files are all included, and you can do all your work with them there.
-Statistics Computed
-You will learn about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, you'll write code to provide the following information:
+Some versions of this project also include a Project Workspace page in the classroom where the bikeshare.py file and the city dataset files are all included, and you can do all your work with them there.<br>
+Statistics Computed<br>
+You will learn about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, you'll write code to provide the following information:<br>
 
-Notice: The CSV files are larger than 25 MB so i will put thier links here : 
- https://www.mediafire.com/file/d8vt3kj0uyka2zc/new_york_city.csv/file
- https://www.mediafire.com/file/miabhdb21pwz1l9/washington.csv/file
+Notice: The CSV files are larger than 25 MB so i will put thier links here : <br>
+ https://www.mediafire.com/file/d8vt3kj0uyka2zc/new_york_city.csv/file<br>
+ https://www.mediafire.com/file/miabhdb21pwz1l9/washington.csv/file<br>
  https://www.mediafire.com/file/sx94f2hdxlr7vjq/chicago.csv/file
 
